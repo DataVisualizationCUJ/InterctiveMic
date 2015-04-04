@@ -1,0 +1,1 @@
+most of the style properties are akin to .Mic. However, when I was pulling codes from the website, some information has multiple font-family properties such as "proxima-nova" that I don't understand. Also the webkit-font-smoothing thing is also confusing.
